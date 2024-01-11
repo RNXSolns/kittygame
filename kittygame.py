@@ -48,6 +48,7 @@ def snap_pos(x, max_x):
 
 class Cat():
     def __init__(self):
+        #initialize
         self.radius = 20
         self.pos = 50, 50
         self.vel = 100
